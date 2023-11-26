@@ -1,0 +1,21 @@
+{
+    "header":{
+        "idProforma":5
+    },
+    "details":[
+        {
+            "idVarianteArticle":2,
+            "quantiteVoulu":5,
+            "prixUnitaire":6000,
+            "tva":20,
+            "prixUntitaireTtc":400000
+        },
+        {
+            "idVarianteArticle":2,
+            "quantiteVoulu":5,
+            "prixUnitaire":6000,
+            "tva":20,
+            "prixUntitaireTtc":400000
+        }
+    ]
+}

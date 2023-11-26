@@ -1,0 +1,15 @@
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommandeHeaderRepository.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommandeDetailRepository.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/proforma/ProformaFactureRepository.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/proforma/Proforma.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommandeHeader.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommande.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/SystemeCommercialApplication.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/varianteArticle/VarianteArticleRepository.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/proforma/ProformaDetail.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/proforma/ProformaFacture.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/varianteArticle/VarianteArticleController.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/proforma/ProformaDetailRepository.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommandeDetail.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/bonCommande/BonCommandeController.java
+/home/riana/Documents/S5/Tovo-GESTION/Tovo_S5/Systeme Commercial/Spring/systeme_commercial/src/main/java/com/systeme_commercial/varianteArticle/VarianteArticle.java
